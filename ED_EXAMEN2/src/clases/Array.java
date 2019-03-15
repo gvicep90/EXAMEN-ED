@@ -8,6 +8,8 @@ package clases;
  */
 public class Array {
 	
+	//comentario
+	
 	private int array[] = { 5, 1, 22, 9, 12, 6, 4, 8, 15, 21, 18, 17, 2, 11, 6};
 	
 	/**
